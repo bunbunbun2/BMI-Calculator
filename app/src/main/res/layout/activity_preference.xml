@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginTop="200dp"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Are you over \n 20 years old?"
+        android:layout_marginTop="250dp"
+        android:text="Your prefered \n System?"
         android:textSize="25sp"
         android:gravity="center"
         android:layout_gravity="center_horizontal" />
@@ -24,22 +24,22 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/yesB"
+            android:id="@+id/metric"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="25sp"
+            android:textSize="15sp"
             android:layout_weight="1"
-            android:text="yes">
+            android:text="metric">
         </Button>
 
         <Button
-            android:id="@+id/noB"
-            android:layout_width="wrap_content"
+            android:id="@+id/imperial"
             android:layout_height="wrap_content"
-            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:textSize="15sp"
             android:layout_marginStart="50dp"
             android:layout_weight="1"
-            android:text="no">
+            android:text="imperial">
         </Button>
     </LinearLayout>
 
