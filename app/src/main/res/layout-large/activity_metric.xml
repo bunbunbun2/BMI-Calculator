@@ -14,7 +14,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="-250dp"
         android:text="You have selected \n Metric system"
-        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -27,7 +26,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="-180dp"
         android:text="Your weight"
-        android:textSize="15sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -70,6 +68,9 @@
         app:layout_constraintStart_toEndOf="@+id/wtInput"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@id/wtSliderMetric">
+
     </TextView>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

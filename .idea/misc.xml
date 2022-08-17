@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout-land/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout-large/activity_metric.xml" value="0.18" />
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout-large/activity_preference.xml" value="0.15520833333333334" />
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout-sw600dp/activity_main-large.xml" value="0.1" />
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.1046875" />
         <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout/activity_main-Large.xml" value="0.21678891605541972" />
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout/activity_main-large.xml" value="0.14812550937245314" />
         <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout/activity_metric.xml" value="0.5" />
+        <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout/activity_metric.xml" value="0.25" />
         <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout/activity_preference.xml" value="0.4220308250226655" />
         <entry key="..\:/Hey me Code good/Mobile Application Development/Prac2/app/src/main/res/layout/popup.xml" value="0.24583155194527576" />
       </map>
@@ -16,5 +23,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
   </component>
 </project>
